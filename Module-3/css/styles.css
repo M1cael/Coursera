@@ -1,0 +1,27 @@
+#header-nav{
+    background-color: grey;
+}
+
+.navbar-brand h1
+{
+    color: #000;
+}
+section div{
+    background-color: grey;
+}
+
+section > div{
+    margin: 15px;
+}
+
+#nav-list br{
+    border: 1px #000;
+    
+}
+
+@media (max-width: 768px)   {
+    #header-nav{
+        height: 70px;
+
+    }
+    }

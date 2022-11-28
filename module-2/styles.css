@@ -57,7 +57,7 @@ p {
 /* Simple Responsive Framework. */
 .row {
     background-color: grey;
-     
+     width: 90%;
     
    
 }
@@ -80,7 +80,7 @@ p {
     width: 25%;
   }
   .col-lg-4 {
-    width: 31.33%;
+    width: 33.33%;
     margin-top: 20px;
      margin-left: 15px;
     padding: 10px;
@@ -140,7 +140,7 @@ p {
     padding: 10px;
     background-color: grey;
      margin-left: 10px;
-    width:   48%  ;
+    width:   50%  ;
   }
   .col-md-7 {
     width: 58.33%;
