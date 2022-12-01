@@ -14,14 +14,16 @@ section > div{
     margin: 15px;
 }
 
-#nav-list br{
-    border: 1px #000;
-    
-}
+
 
 @media (max-width: 768px)   {
     #header-nav{
         height: 70px;
 
+    }
+    #nav-list a{
+        border: 1px #000;
+        background-color: darksalmon;
+        
     }
     }
